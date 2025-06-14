@@ -1,7 +1,7 @@
 [project]
-name = "first-agent-template"
+name = "HF_Agents_Course"
 version = "0.1.0"
-description = "Add your description here"
+description = "HF Agents Course: Understanding, using and building AI agents"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
